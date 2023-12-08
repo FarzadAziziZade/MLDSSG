@@ -1,6 +1,6 @@
 # MLDSSG
-- Predictive Machine Learning Models for Optimization of Direct Solar Steam Generation
+Predictive Machine Learning Models for Optimization of Direct Solar Steam Generation. Solar Steam Generators are devices that produce freshwater only using solar energy.
 
-- Interfacial and Volumetric Methods
-
-- Cite this paper: https://doi.org/10.1016/j.jwpe.2023.104304
+Cite this paper
+---------------
+- https://doi.org/10.1016/j.jwpe.2023.104304
